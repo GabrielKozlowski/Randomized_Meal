@@ -7,12 +7,12 @@ Random meal for breakfast/lunch/diner
 
 
 ## Lists of content
-* [General info]()  
+* [General info](https://github.com/GabrielKozlowski/randomized_meal/blob/master/README.md#general-info)  
 
       
-* [Technologies]()
-* [Python library]()
-* [Status]()
+* [Technologies](https://github.com/GabrielKozlowski/randomized_meal/blob/master/README.md#technologies)
+* [Python library](https://github.com/GabrielKozlowski/randomized_meal/blob/master/README.md#python-library)
+* [Status](https://github.com/GabrielKozlowski/randomized_meal/blob/master/README.md#status)
 
 
 ## General Info
