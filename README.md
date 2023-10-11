@@ -1,7 +1,3 @@
-# randomized_meal
-Random meal for breakfast/lunch/diner
-
-
 # Randomized Meal.
 ### Program for random choose the meal.
 
