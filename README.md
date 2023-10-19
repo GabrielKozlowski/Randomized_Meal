@@ -1,5 +1,6 @@
 # Randomized Meal.
-### Program for random choose the meal.
+### Program to select a specific or random meal. Check the recipe for cooking it and the ingredients needed. 
+### You can add your own meals.
 
 
 ## Lists of content
@@ -14,7 +15,7 @@
 ## General Info
 
 ### In this program we will can choose random meal for breakfast, lunch, diner. 
-
+### You can add products to your shopping list. Add or remove your own meals to the list.
 
 ## Technologies
 

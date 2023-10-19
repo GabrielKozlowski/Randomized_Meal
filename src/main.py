@@ -4,8 +4,6 @@ from classes.LeftFrame import LeftFrame
 
 
 
-
-
 class RandomizeMeals:
 
     def __init__(self):
